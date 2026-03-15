@@ -72,7 +72,7 @@ Three Tableau dashboards were created:
 
 Netflix-Data-Analysis-Visualization/
 │
-├─ Netflix_Data_Cleaning.sql
+├─ netflix_db.sql
 ├─ netflix.csv
 ├─ netflix_cleaned.csv
 ├─ dashboards/
@@ -109,7 +109,7 @@ Tableau Dashboards
 1. Clone the repository.  
 2. Open PostgreSQL shell and run the SQL script:  
    ```sql
-   \i Netflix_Data_Cleaning.sql
+   \i netflix_db.sql
 
 Export cleaned data to CSV.
 
