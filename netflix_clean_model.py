@@ -1,9 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 # Import libraries
 import pandas as pd
-import sqlite3
 import numpy as np
 import sqlalchemy
 import psycopg2
